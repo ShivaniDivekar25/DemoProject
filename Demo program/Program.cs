@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("I am learning C#");
+            Console.WriteLine("I am good at c++");
         }
     }
 }
